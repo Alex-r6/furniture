@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+}
+.C_C {
+    max-width: 1200px;
+    width: 100%;
+    /* background-color: aquamarine; */
+}
+.D_Between {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.main {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.t {
+    width: 449px;
+    height: 199px;
+    background-color: white;
+    display: flex;
+}
